@@ -1,4 +1,3 @@
-echo "$0"
 for argu in "$@"
 do
 	VAR=$(ls -dt -- */ | head -n1); VAR=${VAR::-1}; FINAL=`expr $VAR + 1`;
