@@ -9,7 +9,10 @@ bota.to Downloader - Botato manga/comics downloader, download comics and manga i
 4. Wait until you see a red message in the console
 5. Copy all the links from the console
 6. Clean up the list so it only contains space seperated links 
-7. Open your terminal and run ```mkdir MyComicName && cd MyComicName && wget https://raw.githubusercontent.com/rosenpin/BotatoComicsDownloader/master/ComicsDownloader.sh && ./ComicsDownloader.sh [replace this with list of links here from step 5]```
+7. Open your terminal and run 
+```bash
+mkdir MyComicName && cd MyComicName && wget https://raw.githubusercontent.com/rosenpin/BotatoComicsDownloader/master/ComicsDownloader.sh && ./ComicsDownloader.sh [replace this with list of links here from step 5]
+```
 8. Wait for about an hour - 5 hours (depending on your connection speed) for the files to download
 
 ![Example](http://i.imgur.com/ppnabJq.png)
