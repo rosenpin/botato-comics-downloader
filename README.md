@@ -14,3 +14,8 @@ bota.to Downloader - Botato manga/comics downloader, download comics and manga i
 9. Wait for about an hour - 5 hours (depending on your connection speed) for the files to download
 
 ![Example](http://i.imgur.com/ppnabJq.png)
+
+# Dependencies/Requirements
+* A unix machine (Linux/MacOS)
+* Terminal emulator
+* wget
