@@ -12,3 +12,5 @@ bota.to Downloader - Botato manga/comics downloader, download comics and manga i
 7. Download the [ComicsDownloader.sh](/ComicsDownloader.sh) file to your computer
 8. From your terminal run ```./ComicsDownload.sh [paste the list of links here]```
 9. Wait for about an hour - 5 hours (depending on your connection speed) for the files to download
+
+![Example](http://i.imgur.com/ppnabJq.png)
