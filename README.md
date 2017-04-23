@@ -17,7 +17,7 @@ mkdir MyComicName && cd MyComicName && wget https://raw.githubusercontent.com/ro
 
 ![Example](http://i.imgur.com/ppnabJq.png)
 
-# Dependencies/Requirements
+## Dependencies/Requirements
 * A unix machine (Linux/MacOS)
 * Terminal emulator
 * wget
