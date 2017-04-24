@@ -1,3 +1,4 @@
+echo "$0"
 for argu in "$@"
 do
 	VAR=$(ls -dt -- */ | head -n1); VAR=${VAR::-1}; FINAL=`expr $VAR + 1`;
@@ -8,12 +9,14 @@ do
 	for i in `seq 1 $max`
 	do
 	    wget $argu/img00000$i.jpg
+	    wget $argu/img00000$i.png
 	done
 	
-	max=20
+	max=30
 	for i in `seq 10 $max`
 	do
 	    wget $argu/img0000$i.jpg
+	    wget $argu/img00000$i.png
 	done
 	
 	cd ..
