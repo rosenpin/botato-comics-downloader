@@ -16,7 +16,7 @@ do
 	for i in `seq 10 $max`
 	do
 	    wget $argu/img0000$i.jpg
-	    wget $argu/img00000$i.png
+	    wget $argu/img0000$i.png
 	done
 	
 	cd ..
